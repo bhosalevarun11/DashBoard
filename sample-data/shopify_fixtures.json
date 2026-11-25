@@ -1,0 +1,1952 @@
+{
+  "data": {
+    "orders": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Order/133089",
+            "name": "#IN-134089",
+            "createdAt": "2025-11-25T17:47:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1248.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2100",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133090",
+            "name": "#IN-134090",
+            "createdAt": "2025-11-25T15:52:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1130.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2094",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133091",
+            "name": "#IN-134091",
+            "createdAt": "2025-11-25T17:30:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "19153.29",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2104",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1199.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2082",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "9999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2071",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133092",
+            "name": "#IN-134092",
+            "createdAt": "2025-11-25T08:36:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1768.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2088",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133093",
+            "name": "#IN-134093",
+            "createdAt": "2025-11-25T14:32:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "10327.89",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2071",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2076",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "8999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2101",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "399.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133094",
+            "name": "#IN-134094",
+            "createdAt": "2025-11-25T15:58:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "3407.19",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2111",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2109",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "799.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133095",
+            "name": "#IN-134095",
+            "createdAt": "2025-11-25T12:35:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "7110.09",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2086",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2081",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1599.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2099",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2088",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133096",
+            "name": "#IN-134096",
+            "createdAt": "2025-11-25T22:25:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "2652.88",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "PROCESSING",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2086",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2070",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133097",
+            "name": "#IN-134097",
+            "createdAt": "2025-11-25T19:30:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "894.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2103",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "699.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133098",
+            "name": "#IN-134098",
+            "createdAt": "2025-11-25T11:03:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "5779.64",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2071",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2074",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133099",
+            "name": "#IN-134099",
+            "createdAt": "2025-11-25T08:35:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "5199.55",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2098",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2109",
+                    "quantity": 3,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "799.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133100",
+            "name": "#IN-134100",
+            "createdAt": "2025-11-26T09:08:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1248.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2100",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133101",
+            "name": "#IN-134101",
+            "createdAt": "2025-11-26T16:05:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "5936.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2068",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2086",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2094",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133102",
+            "name": "#IN-134102",
+            "createdAt": "2025-11-26T18:24:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "3509.5",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2077",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133103",
+            "name": "#IN-134103",
+            "createdAt": "2025-11-26T15:50:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "6164.38",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2108",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "5499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133104",
+            "name": "#IN-134104",
+            "createdAt": "2025-11-26T12:00:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "5041.14",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2089",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2096",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133105",
+            "name": "#IN-134105",
+            "createdAt": "2025-11-26T15:20:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "6164.38",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2108",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "5499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133106",
+            "name": "#IN-134106",
+            "createdAt": "2025-11-26T21:50:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "23537.64",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 3,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133107",
+            "name": "#IN-134107",
+            "createdAt": "2025-11-26T19:29:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "4670.68",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2072",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2094",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133108",
+            "name": "#IN-134108",
+            "createdAt": "2025-11-26T19:27:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "18367.29",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2098",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2093",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2102",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133109",
+            "name": "#IN-134109",
+            "createdAt": "2025-11-26T09:49:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "2305.9",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "RETURNED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2107",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133110",
+            "name": "#IN-134110",
+            "createdAt": "2025-11-26T08:06:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "7845.88",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133111",
+            "name": "#IN-134111",
+            "createdAt": "2025-11-27T17:37:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "3509.5",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2072",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133112",
+            "name": "#IN-134112",
+            "createdAt": "2025-11-27T22:54:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "4011.0",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2097",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133113",
+            "name": "#IN-134113",
+            "createdAt": "2025-11-27T15:01:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "2807.4",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "SHIPPED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2079",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2799.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133114",
+            "name": "#IN-134114",
+            "createdAt": "2025-11-27T17:39:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "894.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2103",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "699.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133115",
+            "name": "#IN-134115",
+            "createdAt": "2025-11-27T10:26:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "19466.46",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "CANCELLED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2108",
+                    "quantity": 3,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "5499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133116",
+            "name": "#IN-134116",
+            "createdAt": "2025-11-27T15:34:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1768.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2088",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133117",
+            "name": "#IN-134117",
+            "createdAt": "2025-11-27T17:14:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "2801.38",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "RETURNED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2098",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133118",
+            "name": "#IN-134118",
+            "createdAt": "2025-11-27T12:34:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "10029.0",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2082",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "9999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133119",
+            "name": "#IN-134119",
+            "createdAt": "2025-11-27T10:15:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "10086.76",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2069",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133120",
+            "name": "#IN-134120",
+            "createdAt": "2025-11-27T21:51:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1532.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2099",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133121",
+            "name": "#IN-134121",
+            "createdAt": "2025-11-27T08:33:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "12740.81",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2076",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "8999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2089",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133122",
+            "name": "#IN-134122",
+            "createdAt": "2025-11-27T17:45:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "7419.19",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2091",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "399.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2072",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133123",
+            "name": "#IN-134123",
+            "createdAt": "2025-11-28T09:08:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "7518.49",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2078",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2074",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2094",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133124",
+            "name": "#IN-134124",
+            "createdAt": "2025-11-28T20:22:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "13590.41",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2076",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "8999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2098",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2099",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133125",
+            "name": "#IN-134125",
+            "createdAt": "2025-11-28T19:55:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1414.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "RETURNED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2104",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1199.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133126",
+            "name": "#IN-134126",
+            "createdAt": "2025-11-28T18:46:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "5542.46",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2092",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "599.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2077",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133127",
+            "name": "#IN-134127",
+            "createdAt": "2025-11-28T16:54:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1532.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2099",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133128",
+            "name": "#IN-134128",
+            "createdAt": "2025-11-28T08:32:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1414.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2083",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1199.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133129",
+            "name": "#IN-134129",
+            "createdAt": "2025-11-28T09:54:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "7535.95",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "SHIPPED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2109",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "799.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2069",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2074",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2093",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133130",
+            "name": "#IN-134130",
+            "createdAt": "2025-11-28T18:42:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "14039.99",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2082",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "9999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2097",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "3999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133131",
+            "name": "#IN-134131",
+            "createdAt": "2025-11-28T19:28:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1768.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2089",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133132",
+            "name": "#IN-134132",
+            "createdAt": "2025-11-28T16:33:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "11230.59",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2099",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2076",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "8999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2094",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "899.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133133",
+            "name": "#IN-134133",
+            "createdAt": "2025-11-28T19:21:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "10758.24",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "RETURNED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2111",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2075",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133134",
+            "name": "#IN-134134",
+            "createdAt": "2025-11-28T21:37:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "19962.41",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2079",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "2799.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2105",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "6999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "title": "Item 2076",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "8999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133135",
+            "name": "#IN-134135",
+            "createdAt": "2025-11-28T14:38:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "4510.49",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2089",
+                    "quantity": 3,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1499.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133136",
+            "name": "#IN-134136",
+            "createdAt": "2025-11-28T14:38:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1649.64",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2103",
+                    "quantity": 2,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "699.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133137",
+            "name": "#IN-134137",
+            "createdAt": "2025-11-28T11:13:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "1532.82",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2111",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "1299.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Order/133138",
+            "name": "#IN-134138",
+            "createdAt": "2025-11-29T15:11:00+00:00",
+            "totalPriceSet": {
+              "shopMoney": {
+                "amount": "11208.88",
+                "currencyCode": "INR"
+              }
+            },
+            "displayFulfillmentStatus": "DELIVERED",
+            "lineItems": {
+              "edges": [
+                {
+                  "node": {
+                    "title": "Item 2082",
+                    "quantity": 1,
+                    "originalUnitPriceSet": {
+                      "shopMoney": {
+                        "amount": "9999.0",
+                        "currencyCode": "INR"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,220 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: #ffffff;
+    --color-surface: #fafafa;
+    --color-surface-raised: #ffffff;
+    --color-border: #e5e5e5;
+    --color-border-strong: #d4d4d4;
+    --color-text-primary: #0a0a0a;
+    --color-text-secondary: #6b6b6b;
+    --color-text-tertiary: #a3a3a3;
+    --color-black: #000000;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text-primary);
+    font-family: Inter, Geist, system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, .h1 {
+    font-size: 1.75rem; /* 28px */
+    font-weight: 600;
+    color: #0a0a0a;
+    letter-spacing: -0.02em;
+  }
+
+  h2, .h2 {
+    font-size: 1.25rem; /* 20px */
+    font-weight: 600;
+    color: #0a0a0a;
+    letter-spacing: -0.01em;
+  }
+
+  h3, .h3 {
+    font-size: 1rem; /* 16px */
+    font-weight: 600;
+    color: #0a0a0a;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-1px);
+  border-color: #d4d4d4;
+}
+
+.card-quiet {
+  background-color: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+  background-color: #0a0a0a;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  transition: background-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background-color: #000000;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.btn-primary:active:not(:disabled) {
+  transform: scale(0.98);
+  box-shadow: none;
+}
+
+.btn-primary:disabled {
+  background-color: #e5e5e5;
+  color: #a3a3a3;
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+  border: 1px solid #d4d4d4;
+  background-color: #ffffff;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #0a0a0a;
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.btn-secondary:hover:not(:disabled) {
+  border-color: #0a0a0a;
+  background-color: #fafafa;
+}
+
+.btn-secondary:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #6b6b6b;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.btn-ghost:hover {
+  background-color: #fafafa;
+  color: #0a0a0a;
+}
+
+.input {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+  background-color: #ffffff;
+  padding: 8px 12px;
+  font-size: 14px;
+  color: #0a0a0a;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #0a0a0a;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #6b6b6b;
+  background-color: transparent;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.sidebar-link:hover {
+  background-color: #fafafa;
+  color: #0a0a0a;
+}
+
+.sidebar-link-active {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+/* Data Table Precision Utility Classes */
+.table-header {
+  background-color: #ffffff;
+  color: #6b6b6b;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.table-row {
+  border-bottom: 1px solid #e5e5e5;
+  transition: background-color 0.12s ease;
+}
+
+.table-row:hover {
+  background-color: #fafafa;
+}
+
+/* Non-Negotiable Layout Integrity Utilities */
+.min-w-0 {
+  min-width: 0 !important;
+}
+
+.truncate-cell {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.table-scroll-container {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}

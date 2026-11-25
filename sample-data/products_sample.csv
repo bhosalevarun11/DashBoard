@@ -1,0 +1,45 @@
+sku,product_name,category,price,cost_price,stock_quantity
+SKU-ELE-001,Noise-Cancelling Wireless Earbuds,Category,2499.0,1250.0,178
+SKU-ELE-002,Smart Fitness Band Pro,Category,1999.0,950.0,43
+SKU-ELE-003,Fast Charging Power Bank 20000mAh,Category,1499.0,720.0,21
+SKU-ELE-004,Ergonomic Wireless Mouse,Category,899.0,410.0,85
+SKU-ELE-005,Mechanical RGB Gaming Keyboard,Category,3499.0,1800.0,77
+SKU-ELE-006,Portable Bluetooth Speaker 20W,Category,2999.0,1400.0,72
+SKU-ELE-007,4K Ultra HD Streaming Dongle,Category,3999.0,2100.0,50
+SKU-ELE-008,USB-C Multiport Hub,Category,1299.0,580.0,41
+SKU-ETH-001,Pure Silk Kanjivaram Saree,Category,8999.0,4500.0,188
+SKU-ETH-002,Designer Anarkali Kurta Set,Category,3499.0,1650.0,154
+SKU-ETH-003,Handloom Chanderi Cotton Dupatta,Category,1299.0,550.0,37
+SKU-ETH-004,Men's Royal Silk Nehru Jacket,Category,2799.0,1300.0,166
+SKU-ETH-005,Embroidered Raw Silk Lehenga,Category,12999.0,6800.0,123
+SKU-ETH-006,Printed Cotton Chikankari Kurti,Category,1599.0,720.0,23
+SKU-ETH-007,Jacquard Sherwani for Men,Category,9999.0,5100.0,22
+SKU-KIT-001,Brass Filter Coffee Maker (300ml),Category,1199.0,540.0,38
+SKU-KIT-002,Cast Iron Pre-Seasoned Kadhai,Category,1899.0,920.0,70
+SKU-KIT-003,Handcrafted Ceramic Dinnerware Set,Category,4499.0,2100.0,74
+SKU-KIT-004,Stainless Steel Multi-Tier Bento Box,Category,999.0,450.0,144
+SKU-KIT-005,Electric Spice & Coffee Grinder,Category,1699.0,810.0,169
+SKU-KIT-006,Copper Water Pitcher (1.5L),Category,1499.0,680.0,21
+SKU-BTY-001,Ayurvedic Kumkumadi Night Serum,Category,1499.0,520.0,158
+SKU-BTY-002,Organic Cold-Pressed Coconut Hair Oil,Category,499.0,180.0,65
+SKU-BTY-003,Saffron & Ubtan Face Wash,Category,399.0,140.0,198
+SKU-BTY-004,Rosewater Hydrating Facial Mist,Category,599.0,210.0,181
+SKU-BTY-005,Charcoal Deep Cleansing Sheet Mask,Category,299.0,90.0,194
+SKU-BTY-006,Sandalwood & Turmeric Moisturizer,Category,899.0,320.0,154
+SKU-FTW-001,Handcrafted Kolhapuri Leather Chappals,Category,1799.0,780.0,122
+SKU-FTW-002,Embroidered Jutti for Women,Category,1499.0,620.0,71
+SKU-FTW-003,Men's Formal Oxford Leather Shoes,Category,3999.0,1850.0,129
+SKU-FTW-004,Breathable Running Sneakers,Category,2499.0,1100.0,165
+SKU-FTW-005,Slip-On Canvas Loafers,Category,1299.0,540.0,86
+SKU-FOD-001,Organic Kashmiri Saffron (1g),Category,999.0,480.0,16
+SKU-FOD-002,Single-Origin Malabar Black Pepper,Category,399.0,160.0,55
+SKU-FOD-003,Artisanal Spiced Chai Blend (250g),Category,499.0,190.0,193
+SKU-FOD-004,Raw Forest Wildflower Honey (500g),Category,699.0,280.0,123
+SKU-FOD-005,Premium A2 Gir Cow Desi Ghee (500ml),Category,1199.0,590.0,102
+SKU-WCH-001,Titanium Chronograph Analog Watch,Category,6999.0,3200.0,86
+SKU-WCH-002,Minimalist Rose Gold Mesh Watch,Category,4499.0,1950.0,54
+SKU-WCH-003,925 Sterling Silver Pendant Necklace,Category,2299.0,890.0,70
+SKU-WCH-004,Kundan Choker Jewelry Set,Category,5499.0,2400.0,101
+SKU-BOK-001,Hardcover Business & Leadership Journal,Category,799.0,280.0,41
+SKU-BOK-002,Handmade Jute Cover Diary,Category,499.0,160.0,38
+SKU-BOK-003,Brass Calligraphy Fountain Pen Set,Category,1299.0,480.0,112

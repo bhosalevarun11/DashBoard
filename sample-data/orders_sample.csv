@@ -1,0 +1,301 @@
+order_id,customer_name,email,order_date,status,total_amount,sales_channel,city,state
+SEED-ORD-1-1,133089,133089@customer.com,2025-11-25,delivered,1248.82,Email,Mumbai,Maharashtra
+SEED-ORD-1-2,133090,133090@customer.com,2025-11-25,delivered,1130.82,Direct,Mumbai,Maharashtra
+SEED-ORD-1-3,133091,133091@customer.com,2025-11-25,delivered,19153.29,Direct,Mumbai,Maharashtra
+SEED-ORD-1-4,133092,133092@customer.com,2025-11-25,delivered,1768.82,Referral,Mumbai,Maharashtra
+SEED-ORD-1-5,133093,133093@customer.com,2025-11-25,delivered,10327.89,Organic Search,Mumbai,Maharashtra
+SEED-ORD-1-6,133094,133094@customer.com,2025-11-25,delivered,3407.19,Paid Social,Mumbai,Maharashtra
+SEED-ORD-1-7,133095,133095@customer.com,2025-11-25,delivered,7110.09,Direct,Mumbai,Maharashtra
+SEED-ORD-1-8,133096,133096@customer.com,2025-11-25,processing,2652.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-1-9,133097,133097@customer.com,2025-11-25,delivered,894.82,Direct,Mumbai,Maharashtra
+SEED-ORD-1-10,133098,133098@customer.com,2025-11-25,delivered,5779.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-1-11,133099,133099@customer.com,2025-11-25,delivered,5199.55,Referral,Mumbai,Maharashtra
+SEED-ORD-2-12,133100,133100@customer.com,2025-11-26,delivered,1248.82,Direct,Mumbai,Maharashtra
+SEED-ORD-2-13,133101,133101@customer.com,2025-11-26,delivered,5936.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-2-14,133102,133102@customer.com,2025-11-26,delivered,3509.5,Direct,Mumbai,Maharashtra
+SEED-ORD-2-15,133103,133103@customer.com,2025-11-26,delivered,6164.38,Direct,Mumbai,Maharashtra
+SEED-ORD-2-16,133104,133104@customer.com,2025-11-26,delivered,5041.14,Referral,Mumbai,Maharashtra
+SEED-ORD-2-17,133105,133105@customer.com,2025-11-26,delivered,6164.38,Direct,Mumbai,Maharashtra
+SEED-ORD-2-18,133106,133106@customer.com,2025-11-26,delivered,23537.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-2-19,133107,133107@customer.com,2025-11-26,delivered,4670.68,Referral,Mumbai,Maharashtra
+SEED-ORD-2-20,133108,133108@customer.com,2025-11-26,delivered,18367.29,Organic Search,Mumbai,Maharashtra
+SEED-ORD-2-21,133109,133109@customer.com,2025-11-26,returned,2305.9,Direct,Mumbai,Maharashtra
+SEED-ORD-2-22,133110,133110@customer.com,2025-11-26,delivered,7845.88,Direct,Mumbai,Maharashtra
+SEED-ORD-3-23,133111,133111@customer.com,2025-11-27,delivered,3509.5,Direct,Mumbai,Maharashtra
+SEED-ORD-3-24,133112,133112@customer.com,2025-11-27,delivered,4011.0,Organic Search,Mumbai,Maharashtra
+SEED-ORD-3-25,133113,133113@customer.com,2025-11-27,shipped,2807.4,Paid Social,Mumbai,Maharashtra
+SEED-ORD-3-26,133114,133114@customer.com,2025-11-27,delivered,894.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-3-27,133115,133115@customer.com,2025-11-27,cancelled,19466.46,Direct,Mumbai,Maharashtra
+SEED-ORD-3-28,133116,133116@customer.com,2025-11-27,delivered,1768.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-3-29,133117,133117@customer.com,2025-11-27,returned,2801.38,Direct,Mumbai,Maharashtra
+SEED-ORD-3-30,133118,133118@customer.com,2025-11-27,delivered,10029.0,Organic Search,Mumbai,Maharashtra
+SEED-ORD-3-31,133119,133119@customer.com,2025-11-27,delivered,10086.76,Paid Social,Mumbai,Maharashtra
+SEED-ORD-3-32,133120,133120@customer.com,2025-11-27,delivered,1532.82,Email,Mumbai,Maharashtra
+SEED-ORD-3-33,133121,133121@customer.com,2025-11-27,delivered,12740.81,Paid Social,Mumbai,Maharashtra
+SEED-ORD-3-34,133122,133122@customer.com,2025-11-27,delivered,7419.19,Email,Mumbai,Maharashtra
+SEED-ORD-4-35,133123,133123@customer.com,2025-11-28,delivered,7518.49,Organic Search,Mumbai,Maharashtra
+SEED-ORD-4-36,133124,133124@customer.com,2025-11-28,delivered,13590.41,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-37,133125,133125@customer.com,2025-11-28,returned,1414.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-4-38,133126,133126@customer.com,2025-11-28,delivered,5542.46,Direct,Mumbai,Maharashtra
+SEED-ORD-4-39,133127,133127@customer.com,2025-11-28,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-40,133128,133128@customer.com,2025-11-28,delivered,1414.82,Direct,Mumbai,Maharashtra
+SEED-ORD-4-41,133129,133129@customer.com,2025-11-28,shipped,7535.95,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-42,133130,133130@customer.com,2025-11-28,delivered,14039.99,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-43,133131,133131@customer.com,2025-11-28,delivered,1768.82,Direct,Mumbai,Maharashtra
+SEED-ORD-4-44,133132,133132@customer.com,2025-11-28,delivered,11230.59,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-45,133133,133133@customer.com,2025-11-28,returned,10758.24,Direct,Mumbai,Maharashtra
+SEED-ORD-4-46,133134,133134@customer.com,2025-11-28,delivered,19962.41,Paid Social,Mumbai,Maharashtra
+SEED-ORD-4-47,133135,133135@customer.com,2025-11-28,delivered,4510.49,Email,Mumbai,Maharashtra
+SEED-ORD-4-48,133136,133136@customer.com,2025-11-28,delivered,1649.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-4-49,133137,133137@customer.com,2025-11-28,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-50,133138,133138@customer.com,2025-11-29,delivered,11208.88,Referral,Mumbai,Maharashtra
+SEED-ORD-5-51,133139,133139@customer.com,2025-11-29,delivered,9554.46,Direct,Mumbai,Maharashtra
+SEED-ORD-5-52,133140,133140@customer.com,2025-11-29,delivered,894.82,Direct,Mumbai,Maharashtra
+SEED-ORD-5-53,133141,133141@customer.com,2025-11-29,delivered,893.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-54,133142,133142@customer.com,2025-11-29,delivered,776.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-5-55,133143,133143@customer.com,2025-11-29,delivered,5839.94,Direct,Mumbai,Maharashtra
+SEED-ORD-5-56,133144,133144@customer.com,2025-11-29,delivered,1532.82,Email,Mumbai,Maharashtra
+SEED-ORD-5-57,133145,133145@customer.com,2025-11-29,processing,540.82,Direct,Mumbai,Maharashtra
+SEED-ORD-5-58,133146,133146@customer.com,2025-11-29,returned,19615.26,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-59,133147,133147@customer.com,2025-11-29,delivered,10082.63,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-60,133148,133148@customer.com,2025-11-29,delivered,1768.82,Direct,Mumbai,Maharashtra
+SEED-ORD-5-61,133149,133149@customer.com,2025-11-29,delivered,7020.0,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-62,133150,133150@customer.com,2025-11-29,delivered,3008.0,Direct,Mumbai,Maharashtra
+SEED-ORD-5-63,133151,133151@customer.com,2025-11-29,delivered,4009.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-5-64,133152,133152@customer.com,2025-11-29,shipped,19537.61,Direct,Mumbai,Maharashtra
+SEED-ORD-6-65,133153,133153@customer.com,2025-11-30,delivered,3538.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-6-66,133154,133154@customer.com,2025-11-30,delivered,3715.94,Paid Social,Mumbai,Maharashtra
+SEED-ORD-6-67,133155,133155@customer.com,2025-11-30,returned,8513.99,Email,Mumbai,Maharashtra
+SEED-ORD-6-68,133156,133156@customer.com,2025-11-30,delivered,4128.82,Direct,Mumbai,Maharashtra
+SEED-ORD-6-69,133157,133157@customer.com,2025-11-30,delivered,1886.82,Email,Mumbai,Maharashtra
+SEED-ORD-6-70,133158,133158@customer.com,2025-11-30,delivered,10325.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-6-71,133159,133159@customer.com,2025-11-30,delivered,18287.64,Direct,Mumbai,Maharashtra
+SEED-ORD-6-72,133160,133160@customer.com,2025-11-30,delivered,1649.64,Referral,Mumbai,Maharashtra
+SEED-ORD-6-73,133161,133161@customer.com,2025-11-30,delivered,894.82,Direct,Mumbai,Maharashtra
+SEED-ORD-6-74,133162,133162@customer.com,2025-11-30,processing,2972.54,Organic Search,Mumbai,Maharashtra
+SEED-ORD-6-75,133163,133163@customer.com,2025-11-30,delivered,5839.94,Organic Search,Mumbai,Maharashtra
+SEED-ORD-6-76,133164,133164@customer.com,2025-11-30,delivered,1532.82,Direct,Mumbai,Maharashtra
+SEED-ORD-6-77,133165,133165@customer.com,2025-11-30,delivered,7018.99,Direct,Mumbai,Maharashtra
+SEED-ORD-6-78,133166,133166@customer.com,2025-11-30,delivered,6580.15,Paid Social,Mumbai,Maharashtra
+SEED-ORD-6-79,133167,133167@customer.com,2025-11-30,shipped,16045.99,Direct,Mumbai,Maharashtra
+SEED-ORD-7-80,133168,133168@customer.com,2025-12-01,delivered,15542.49,Paid Social,Mumbai,Maharashtra
+SEED-ORD-7-81,133169,133169@customer.com,2025-12-01,delivered,26574.48,Organic Search,Mumbai,Maharashtra
+SEED-ORD-7-82,133170,133170@customer.com,2025-12-01,delivered,4033.36,Direct,Mumbai,Maharashtra
+SEED-ORD-7-83,133171,133171@customer.com,2025-12-01,delivered,7844.76,Referral,Mumbai,Maharashtra
+SEED-ORD-7-84,133172,133172@customer.com,2025-12-01,cancelled,2405.19,Email,Mumbai,Maharashtra
+SEED-ORD-7-85,133173,133173@customer.com,2025-12-01,delivered,5897.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-7-86,133174,133174@customer.com,2025-12-01,delivered,1698.14,Organic Search,Mumbai,Maharashtra
+SEED-ORD-7-87,133175,133175@customer.com,2025-12-01,delivered,1414.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-7-88,133176,133176@customer.com,2025-12-01,delivered,540.82,Direct,Mumbai,Maharashtra
+SEED-ORD-7-89,133177,133177@customer.com,2025-12-01,delivered,1768.82,Direct,Mumbai,Maharashtra
+SEED-ORD-8-90,133178,133178@customer.com,2025-12-02,delivered,1532.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-8-91,133179,133179@customer.com,2025-12-02,delivered,14508.1,Paid Social,Mumbai,Maharashtra
+SEED-ORD-8-92,133180,133180@customer.com,2025-12-02,delivered,1130.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-8-93,133181,133181@customer.com,2025-12-02,delivered,1768.82,Email,Mumbai,Maharashtra
+SEED-ORD-8-94,133182,133182@customer.com,2025-12-02,delivered,13033.98,Email,Mumbai,Maharashtra
+SEED-ORD-8-95,133183,133183@customer.com,2025-12-02,delivered,2121.88,Direct,Mumbai,Maharashtra
+SEED-ORD-8-96,133184,133184@customer.com,2025-12-02,delivered,8962.1,Direct,Mumbai,Maharashtra
+SEED-ORD-8-97,133185,133185@customer.com,2025-12-02,delivered,2122.82,Direct,Mumbai,Maharashtra
+SEED-ORD-8-98,133186,133186@customer.com,2025-12-02,delivered,1130.82,Direct,Mumbai,Maharashtra
+SEED-ORD-8-99,133187,133187@customer.com,2025-12-02,delivered,3207.59,Paid Social,Mumbai,Maharashtra
+SEED-ORD-8-100,133188,133188@customer.com,2025-12-02,delivered,4482.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-8-101,133189,133189@customer.com,2025-12-02,delivered,8964.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-9-102,133190,133190@customer.com,2025-12-03,delivered,2505.49,Paid Social,Mumbai,Maharashtra
+SEED-ORD-9-103,133191,133191@customer.com,2025-12-03,delivered,1012.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-9-104,133192,133192@customer.com,2025-12-03,delivered,1248.82,Direct,Mumbai,Maharashtra
+SEED-ORD-9-105,133193,133193@customer.com,2025-12-03,delivered,9024.99,Direct,Mumbai,Maharashtra
+SEED-ORD-9-106,133194,133194@customer.com,2025-12-03,delivered,4349.95,Paid Social,Mumbai,Maharashtra
+SEED-ORD-9-107,133195,133195@customer.com,2025-12-03,delivered,9973.54,Direct,Mumbai,Maharashtra
+SEED-ORD-9-108,133196,133196@customer.com,2025-12-03,delivered,1248.82,Email,Mumbai,Maharashtra
+SEED-ORD-9-109,133197,133197@customer.com,2025-12-03,delivered,1768.82,Direct,Mumbai,Maharashtra
+SEED-ORD-9-110,133198,133198@customer.com,2025-12-03,delivered,658.82,Direct,Mumbai,Maharashtra
+SEED-ORD-9-111,133199,133199@customer.com,2025-12-03,delivered,9022.75,Referral,Mumbai,Maharashtra
+SEED-ORD-9-112,133200,133200@customer.com,2025-12-03,returned,5111.29,Organic Search,Mumbai,Maharashtra
+SEED-ORD-9-113,133201,133201@customer.com,2025-12-03,delivered,1130.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-114,133202,133202@customer.com,2025-12-04,delivered,1768.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-115,133203,133203@customer.com,2025-12-04,delivered,12437.49,Organic Search,Mumbai,Maharashtra
+SEED-ORD-10-116,133204,133204@customer.com,2025-12-04,delivered,14571.88,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-117,133205,133205@customer.com,2025-12-04,delivered,3183.88,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-118,133206,133206@customer.com,2025-12-04,delivered,15466.44,Direct,Mumbai,Maharashtra
+SEED-ORD-10-119,133207,133207@customer.com,2025-12-04,delivered,6605.64,Direct,Mumbai,Maharashtra
+SEED-ORD-10-120,133208,133208@customer.com,2025-12-04,delivered,5839.94,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-121,133209,133209@customer.com,2025-12-04,delivered,3137.68,Direct,Mumbai,Maharashtra
+SEED-ORD-10-122,133210,133210@customer.com,2025-12-04,processing,10829.21,Direct,Mumbai,Maharashtra
+SEED-ORD-10-123,133211,133211@customer.com,2025-12-04,cancelled,1412.46,Paid Social,Mumbai,Maharashtra
+SEED-ORD-10-124,133212,133212@customer.com,2025-12-04,processing,15802.74,Direct,Mumbai,Maharashtra
+SEED-ORD-10-125,133213,133213@customer.com,2025-12-04,delivered,3024.46,Direct,Mumbai,Maharashtra
+SEED-ORD-11-126,133214,133214@customer.com,2025-12-05,returned,13802.81,Email,Mumbai,Maharashtra
+SEED-ORD-11-127,133215,133215@customer.com,2025-12-05,delivered,13804.94,Organic Search,Mumbai,Maharashtra
+SEED-ORD-11-128,133216,133216@customer.com,2025-12-05,delivered,17107.64,Referral,Mumbai,Maharashtra
+SEED-ORD-11-129,133217,133217@customer.com,2025-12-05,shipped,5043.38,Organic Search,Mumbai,Maharashtra
+SEED-ORD-11-130,133218,133218@customer.com,2025-12-05,delivered,5543.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-11-131,133219,133219@customer.com,2025-12-05,shipped,14651.35,Direct,Mumbai,Maharashtra
+SEED-ORD-11-132,133220,133220@customer.com,2025-12-05,shipped,12845.95,Direct,Mumbai,Maharashtra
+SEED-ORD-11-133,133221,133221@customer.com,2025-12-05,delivered,1649.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-11-134,133222,133222@customer.com,2025-12-05,delivered,16517.64,Direct,Mumbai,Maharashtra
+SEED-ORD-11-135,133223,133223@customer.com,2025-12-05,delivered,1130.82,Referral,Mumbai,Maharashtra
+SEED-ORD-11-136,133224,133224@customer.com,2025-12-05,delivered,9926.69,Organic Search,Mumbai,Maharashtra
+SEED-ORD-11-137,133225,133225@customer.com,2025-12-05,delivered,9435.28,Paid Social,Mumbai,Maharashtra
+SEED-ORD-11-138,133226,133226@customer.com,2025-12-05,delivered,10528.49,Direct,Mumbai,Maharashtra
+SEED-ORD-11-139,133227,133227@customer.com,2025-12-05,cancelled,26563.22,Organic Search,Mumbai,Maharashtra
+SEED-ORD-11-140,133228,133228@customer.com,2025-12-05,delivered,4257.56,Organic Search,Mumbai,Maharashtra
+SEED-ORD-12-141,133229,133229@customer.com,2025-12-06,delivered,4953.64,Direct,Mumbai,Maharashtra
+SEED-ORD-12-142,133230,133230@customer.com,2025-12-06,delivered,1532.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-12-143,133231,133231@customer.com,2025-12-06,delivered,11208.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-12-144,133232,133232@customer.com,2025-12-06,delivered,2305.9,Referral,Mumbai,Maharashtra
+SEED-ORD-12-145,133233,133233@customer.com,2025-12-06,delivered,1903.69,Paid Social,Mumbai,Maharashtra
+SEED-ORD-12-146,133234,133234@customer.com,2025-12-06,delivered,1414.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-12-147,133235,133235@customer.com,2025-12-06,delivered,15338.82,Direct,Mumbai,Maharashtra
+SEED-ORD-12-148,133236,133236@customer.com,2025-12-06,processing,1130.82,Direct,Mumbai,Maharashtra
+SEED-ORD-12-149,133237,133237@customer.com,2025-12-06,returned,422.82,Direct,Mumbai,Maharashtra
+SEED-ORD-12-150,133238,133238@customer.com,2025-12-06,delivered,6487.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-12-151,133239,133239@customer.com,2025-12-06,delivered,17304.23,Direct,Mumbai,Maharashtra
+SEED-ORD-12-152,133240,133240@customer.com,2025-12-06,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-12-153,133241,133241@customer.com,2025-12-06,delivered,10143.28,Paid Social,Mumbai,Maharashtra
+SEED-ORD-12-154,133242,133242@customer.com,2025-12-06,delivered,540.82,Referral,Mumbai,Maharashtra
+SEED-ORD-13-155,133243,133243@customer.com,2025-12-07,delivered,2204.59,Direct,Mumbai,Maharashtra
+SEED-ORD-13-156,133244,133244@customer.com,2025-12-07,shipped,540.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-13-157,133245,133245@customer.com,2025-12-07,delivered,23265.59,Paid Social,Mumbai,Maharashtra
+SEED-ORD-13-158,133246,133246@customer.com,2025-12-07,delivered,8851.42,Referral,Mumbai,Maharashtra
+SEED-ORD-13-159,133247,133247@customer.com,2025-12-07,delivered,7020.0,Direct,Mumbai,Maharashtra
+SEED-ORD-13-160,133248,133248@customer.com,2025-12-07,delivered,1248.82,Email,Mumbai,Maharashtra
+SEED-ORD-13-161,133249,133249@customer.com,2025-12-07,delivered,12504.46,Organic Search,Mumbai,Maharashtra
+SEED-ORD-13-162,133250,133250@customer.com,2025-12-07,delivered,8493.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-13-163,133251,133251@customer.com,2025-12-07,delivered,1532.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-13-164,133252,133252@customer.com,2025-12-07,delivered,6164.38,Direct,Mumbai,Maharashtra
+SEED-ORD-13-165,133253,133253@customer.com,2025-12-07,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-13-166,133254,133254@customer.com,2025-12-07,delivered,6610.54,Referral,Mumbai,Maharashtra
+SEED-ORD-13-167,133255,133255@customer.com,2025-12-07,delivered,422.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-13-168,133256,133256@customer.com,2025-12-07,cancelled,1130.82,Email,Mumbai,Maharashtra
+SEED-ORD-13-169,133257,133257@customer.com,2025-12-07,delivered,3537.64,Direct,Mumbai,Maharashtra
+SEED-ORD-14-170,133258,133258@customer.com,2025-12-08,delivered,17147.29,Paid Social,Mumbai,Maharashtra
+SEED-ORD-14-171,133259,133259@customer.com,2025-12-08,shipped,21552.23,Organic Search,Mumbai,Maharashtra
+SEED-ORD-14-172,133260,133260@customer.com,2025-12-08,delivered,2605.79,Direct,Mumbai,Maharashtra
+SEED-ORD-14-173,133261,133261@customer.com,2025-12-08,processing,894.82,Direct,Mumbai,Maharashtra
+SEED-ORD-14-174,133262,133262@customer.com,2025-12-08,delivered,1532.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-14-175,133263,133263@customer.com,2025-12-08,delivered,2605.79,Organic Search,Mumbai,Maharashtra
+SEED-ORD-14-176,133264,133264@customer.com,2025-12-08,delivered,1248.82,Email,Mumbai,Maharashtra
+SEED-ORD-14-177,133265,133265@customer.com,2025-12-08,delivered,11997.41,Organic Search,Mumbai,Maharashtra
+SEED-ORD-14-178,133266,133266@customer.com,2025-12-08,shipped,5624.35,Paid Social,Mumbai,Maharashtra
+SEED-ORD-14-179,133267,133267@customer.com,2025-12-08,delivered,1129.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-14-180,133268,133268@customer.com,2025-12-08,delivered,1012.82,Direct,Mumbai,Maharashtra
+SEED-ORD-15-181,133269,133269@customer.com,2025-12-09,delivered,5713.74,Organic Search,Mumbai,Maharashtra
+SEED-ORD-15-182,133270,133270@customer.com,2025-12-09,delivered,6316.89,Direct,Mumbai,Maharashtra
+SEED-ORD-15-183,133271,133271@customer.com,2025-12-09,delivered,540.82,Email,Mumbai,Maharashtra
+SEED-ORD-15-184,133272,133272@customer.com,2025-12-09,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-15-185,133273,133273@customer.com,2025-12-09,delivered,1704.1,Paid Social,Mumbai,Maharashtra
+SEED-ORD-15-186,133274,133274@customer.com,2025-12-09,delivered,3538.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-15-187,133275,133275@customer.com,2025-12-09,delivered,776.82,Direct,Mumbai,Maharashtra
+SEED-ORD-15-188,133276,133276@customer.com,2025-12-09,delivered,5515.5,Paid Social,Mumbai,Maharashtra
+SEED-ORD-15-189,133277,133277@customer.com,2025-12-09,shipped,8422.19,Email,Mumbai,Maharashtra
+SEED-ORD-15-190,133278,133278@customer.com,2025-12-09,delivered,13038.0,Direct,Mumbai,Maharashtra
+SEED-ORD-16-191,133279,133279@customer.com,2025-12-10,delivered,14652.41,Paid Social,Mumbai,Maharashtra
+SEED-ORD-16-192,133280,133280@customer.com,2025-12-10,delivered,1804.4,Paid Social,Mumbai,Maharashtra
+SEED-ORD-16-193,133281,133281@customer.com,2025-12-10,delivered,34197.28,Paid Social,Mumbai,Maharashtra
+SEED-ORD-16-194,133282,133282@customer.com,2025-12-10,delivered,6369.88,Organic Search,Mumbai,Maharashtra
+SEED-ORD-16-195,133283,133283@customer.com,2025-12-10,delivered,12208.75,Organic Search,Mumbai,Maharashtra
+SEED-ORD-16-196,133284,133284@customer.com,2025-12-10,delivered,2015.56,Direct,Mumbai,Maharashtra
+SEED-ORD-16-197,133285,133285@customer.com,2025-12-10,delivered,658.82,Direct,Mumbai,Maharashtra
+SEED-ORD-16-198,133286,133286@customer.com,2025-12-10,delivered,3808.04,Direct,Mumbai,Maharashtra
+SEED-ORD-16-199,133287,133287@customer.com,2025-12-10,delivered,11030.99,Referral,Mumbai,Maharashtra
+SEED-ORD-16-200,133288,133288@customer.com,2025-12-10,delivered,1414.82,Direct,Mumbai,Maharashtra
+SEED-ORD-16-201,133289,133289@customer.com,2025-12-10,delivered,1768.82,Direct,Mumbai,Maharashtra
+SEED-ORD-16-202,133290,133290@customer.com,2025-12-10,delivered,8067.84,Organic Search,Mumbai,Maharashtra
+SEED-ORD-17-203,133291,133291@customer.com,2025-12-11,delivered,422.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-17-204,133292,133292@customer.com,2025-12-11,shipped,2015.68,Direct,Mumbai,Maharashtra
+SEED-ORD-17-205,133293,133293@customer.com,2025-12-11,delivered,6499.56,Organic Search,Mumbai,Maharashtra
+SEED-ORD-17-206,133294,133294@customer.com,2025-12-11,delivered,1885.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-17-207,133295,133295@customer.com,2025-12-11,delivered,3655.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-17-208,133296,133296@customer.com,2025-12-11,delivered,422.82,Email,Mumbai,Maharashtra
+SEED-ORD-17-209,133297,133297@customer.com,2025-12-11,cancelled,4717.64,Direct,Mumbai,Maharashtra
+SEED-ORD-17-210,133298,133298@customer.com,2025-12-11,delivered,10642.77,Direct,Mumbai,Maharashtra
+SEED-ORD-17-211,133299,133299@customer.com,2025-12-11,delivered,2759.08,Paid Social,Mumbai,Maharashtra
+SEED-ORD-17-212,133300,133300@customer.com,2025-12-11,delivered,1768.82,Email,Mumbai,Maharashtra
+SEED-ORD-17-213,133301,133301@customer.com,2025-12-11,delivered,1248.82,Referral,Mumbai,Maharashtra
+SEED-ORD-17-214,133302,133302@customer.com,2025-12-11,delivered,7618.79,Email,Mumbai,Maharashtra
+SEED-ORD-17-215,133303,133303@customer.com,2025-12-11,delivered,1532.82,Direct,Mumbai,Maharashtra
+SEED-ORD-18-216,133304,133304@customer.com,2025-12-12,delivered,5266.46,Referral,Mumbai,Maharashtra
+SEED-ORD-18-217,133305,133305@customer.com,2025-12-12,delivered,4352.08,Direct,Mumbai,Maharashtra
+SEED-ORD-18-218,133306,133306@customer.com,2025-12-12,delivered,7854.55,Email,Mumbai,Maharashtra
+SEED-ORD-18-219,133307,133307@customer.com,2025-12-12,delivered,27609.88,Paid Social,Mumbai,Maharashtra
+SEED-ORD-18-220,133308,133308@customer.com,2025-12-12,delivered,4032.41,Organic Search,Mumbai,Maharashtra
+SEED-ORD-18-221,133309,133309@customer.com,2025-12-12,delivered,4246.94,Direct,Mumbai,Maharashtra
+SEED-ORD-18-222,133310,133310@customer.com,2025-12-12,delivered,1130.82,Organic Search,Mumbai,Maharashtra
+SEED-ORD-18-223,133311,133311@customer.com,2025-12-12,cancelled,13537.49,Organic Search,Mumbai,Maharashtra
+SEED-ORD-18-224,133312,133312@customer.com,2025-12-12,delivered,4777.94,Direct,Mumbai,Maharashtra
+SEED-ORD-18-225,133313,133313@customer.com,2025-12-12,delivered,776.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-18-226,133314,133314@customer.com,2025-12-12,delivered,1012.82,Direct,Mumbai,Maharashtra
+SEED-ORD-18-227,133315,133315@customer.com,2025-12-12,delivered,1532.82,Referral,Mumbai,Maharashtra
+SEED-ORD-18-228,133316,133316@customer.com,2025-12-12,delivered,2711.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-18-229,133317,133317@customer.com,2025-12-12,delivered,2706.09,Paid Social,Mumbai,Maharashtra
+SEED-ORD-19-230,133318,133318@customer.com,2025-12-13,delivered,10378.1,Direct,Mumbai,Maharashtra
+SEED-ORD-19-231,133319,133319@customer.com,2025-12-13,delivered,3537.64,Direct,Mumbai,Maharashtra
+SEED-ORD-19-232,133320,133320@customer.com,2025-12-13,delivered,1532.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-19-233,133321,133321@customer.com,2025-12-13,delivered,5071.64,Referral,Mumbai,Maharashtra
+SEED-ORD-19-234,133322,133322@customer.com,2025-12-13,delivered,2972.54,Direct,Mumbai,Maharashtra
+SEED-ORD-19-235,133323,133323@customer.com,2025-12-13,delivered,5377.44,Direct,Mumbai,Maharashtra
+SEED-ORD-19-236,133324,133324@customer.com,2025-12-13,delivered,2807.4,Direct,Mumbai,Maharashtra
+SEED-ORD-19-237,133325,133325@customer.com,2025-12-13,delivered,2801.38,Direct,Mumbai,Maharashtra
+SEED-ORD-19-238,133326,133326@customer.com,2025-12-13,delivered,2801.38,Email,Mumbai,Maharashtra
+SEED-ORD-19-239,133327,133327@customer.com,2025-12-13,delivered,1532.82,Direct,Mumbai,Maharashtra
+SEED-ORD-19-240,133328,133328@customer.com,2025-12-13,delivered,1532.82,Direct,Mumbai,Maharashtra
+SEED-ORD-19-241,133329,133329@customer.com,2025-12-13,delivered,4512.5,Paid Social,Mumbai,Maharashtra
+SEED-ORD-19-242,133330,133330@customer.com,2025-12-13,delivered,3715.94,Email,Mumbai,Maharashtra
+SEED-ORD-19-243,133331,133331@customer.com,2025-12-13,delivered,1768.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-20-244,133332,133332@customer.com,2025-12-14,cancelled,10087.88,Direct,Mumbai,Maharashtra
+SEED-ORD-20-245,133333,133333@customer.com,2025-12-14,delivered,16028.06,Email,Mumbai,Maharashtra
+SEED-ORD-20-246,133334,133334@customer.com,2025-12-14,delivered,7432.94,Paid Social,Mumbai,Maharashtra
+SEED-ORD-20-247,133335,133335@customer.com,2025-12-14,delivered,1532.82,Direct,Mumbai,Maharashtra
+SEED-ORD-20-248,133336,133336@customer.com,2025-12-14,delivered,658.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-20-249,133337,133337@customer.com,2025-12-14,delivered,1886.82,Direct,Mumbai,Maharashtra
+SEED-ORD-20-250,133338,133338@customer.com,2025-12-14,delivered,1792.48,Organic Search,Mumbai,Maharashtra
+SEED-ORD-20-251,133339,133339@customer.com,2025-12-14,delivered,6499.56,Direct,Mumbai,Maharashtra
+SEED-ORD-20-252,133340,133340@customer.com,2025-12-14,delivered,2605.79,Organic Search,Mumbai,Maharashtra
+SEED-ORD-20-253,133341,133341@customer.com,2025-12-14,delivered,4670.68,Direct,Mumbai,Maharashtra
+SEED-ORD-20-254,133342,133342@customer.com,2025-12-14,delivered,11768.26,Organic Search,Mumbai,Maharashtra
+SEED-ORD-20-255,133343,133343@customer.com,2025-12-14,delivered,3537.64,Referral,Mumbai,Maharashtra
+SEED-ORD-20-256,133344,133344@customer.com,2025-12-14,delivered,5095.48,Referral,Mumbai,Maharashtra
+SEED-ORD-20-257,133345,133345@customer.com,2025-12-14,delivered,4128.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-258,133346,133346@customer.com,2025-12-15,delivered,8517.36,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-259,133347,133347@customer.com,2025-12-15,delivered,43715.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-21-260,133348,133348@customer.com,2025-12-15,delivered,2474.46,Direct,Mumbai,Maharashtra
+SEED-ORD-21-261,133349,133349@customer.com,2025-12-15,delivered,3182.46,Direct,Mumbai,Maharashtra
+SEED-ORD-21-262,133350,133350@customer.com,2025-12-15,delivered,5201.68,Direct,Mumbai,Maharashtra
+SEED-ORD-21-263,133351,133351@customer.com,2025-12-15,cancelled,11204.1,Email,Mumbai,Maharashtra
+SEED-ORD-21-264,133352,133352@customer.com,2025-12-15,delivered,4257.56,Direct,Mumbai,Maharashtra
+SEED-ORD-21-265,133353,133353@customer.com,2025-12-15,delivered,6164.38,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-266,133354,133354@customer.com,2025-12-15,delivered,16668.09,Direct,Mumbai,Maharashtra
+SEED-ORD-21-267,133355,133355@customer.com,2025-12-15,delivered,6487.64,Direct,Mumbai,Maharashtra
+SEED-ORD-21-268,133356,133356@customer.com,2025-12-15,delivered,10612.92,Direct,Mumbai,Maharashtra
+SEED-ORD-21-269,133357,133357@customer.com,2025-12-15,delivered,4127.64,Direct,Mumbai,Maharashtra
+SEED-ORD-21-270,133358,133358@customer.com,2025-12-15,shipped,5490.66,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-271,133359,133359@customer.com,2025-12-15,shipped,6488.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-272,133360,133360@customer.com,2025-12-15,delivered,10529.49,Direct,Mumbai,Maharashtra
+SEED-ORD-21-273,133361,133361@customer.com,2025-12-15,delivered,22530.92,Paid Social,Mumbai,Maharashtra
+SEED-ORD-21-274,133362,133362@customer.com,2025-12-15,delivered,13038.0,Referral,Mumbai,Maharashtra
+SEED-ORD-22-275,133363,133363@customer.com,2025-12-16,delivered,422.82,Direct,Mumbai,Maharashtra
+SEED-ORD-22-276,133364,133364@customer.com,2025-12-16,delivered,5043.38,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-277,133365,133365@customer.com,2025-12-16,delivered,1413.64,Email,Mumbai,Maharashtra
+SEED-ORD-22-278,133366,133366@customer.com,2025-12-16,delivered,658.82,Referral,Mumbai,Maharashtra
+SEED-ORD-22-279,133367,133367@customer.com,2025-12-16,processing,3509.5,Organic Search,Mumbai,Maharashtra
+SEED-ORD-22-280,133368,133368@customer.com,2025-12-16,delivered,10732.1,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-281,133369,133369@customer.com,2025-12-16,delivered,10618.94,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-282,133370,133370@customer.com,2025-12-16,delivered,4245.64,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-283,133371,133371@customer.com,2025-12-16,delivered,11556.92,Direct,Mumbai,Maharashtra
+SEED-ORD-22-284,133372,133372@customer.com,2025-12-16,delivered,1128.46,Direct,Mumbai,Maharashtra
+SEED-ORD-22-285,133373,133373@customer.com,2025-12-16,delivered,2015.68,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-286,133374,133374@customer.com,2025-12-16,delivered,12859.64,Referral,Mumbai,Maharashtra
+SEED-ORD-22-287,133375,133375@customer.com,2025-12-16,delivered,1130.82,Paid Social,Mumbai,Maharashtra
+SEED-ORD-22-288,133376,133376@customer.com,2025-12-16,delivered,1768.82,Referral,Mumbai,Maharashtra
+SEED-ORD-22-289,133377,133377@customer.com,2025-12-16,delivered,2829.64,Direct,Mumbai,Maharashtra
+SEED-ORD-23-290,133378,133378@customer.com,2025-12-17,delivered,4245.64,Organic Search,Mumbai,Maharashtra
+SEED-ORD-23-291,133379,133379@customer.com,2025-12-17,delivered,2605.79,Direct,Mumbai,Maharashtra
+SEED-ORD-23-292,133380,133380@customer.com,2025-12-17,returned,3509.5,Paid Social,Mumbai,Maharashtra
+SEED-ORD-23-293,133381,133381@customer.com,2025-12-17,shipped,26336.77,Direct,Mumbai,Maharashtra
+SEED-ORD-23-294,133382,133382@customer.com,2025-12-17,delivered,6014.99,Email,Mumbai,Maharashtra
+SEED-ORD-23-295,133383,133383@customer.com,2025-12-17,delivered,8278.29,Direct,Mumbai,Maharashtra
+SEED-ORD-23-296,133384,133384@customer.com,2025-12-17,delivered,2653.94,Direct,Mumbai,Maharashtra
+SEED-ORD-23-297,133385,133385@customer.com,2025-12-17,delivered,3809.39,Paid Social,Mumbai,Maharashtra
+SEED-ORD-23-298,133386,133386@customer.com,2025-12-17,delivered,7217.59,Referral,Mumbai,Maharashtra
+SEED-ORD-23-299,133387,133387@customer.com,2025-12-17,delivered,3106.29,Direct,Mumbai,Maharashtra
+SEED-ORD-23-300,133388,133388@customer.com,2025-12-17,delivered,10027.64,Email,Mumbai,Maharashtra
